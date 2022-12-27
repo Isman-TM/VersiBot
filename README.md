@@ -1,5 +1,5 @@
 # VersiBot
 "result": {
-    "versi": 1,
+    "versi": 2,
     "link": "https://github.com/Isman-TM/IsmanBotz"
     }
